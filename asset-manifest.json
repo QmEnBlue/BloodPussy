@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BloodPussy/static/css/main.1ee9a7f2.css",
+    "main.js": "/BloodPussy/static/js/main.889895a5.js",
+    "static/js/453.97102f16.chunk.js": "/BloodPussy/static/js/453.97102f16.chunk.js",
+    "index.html": "/BloodPussy/index.html",
+    "main.1ee9a7f2.css.map": "/BloodPussy/static/css/main.1ee9a7f2.css.map",
+    "main.889895a5.js.map": "/BloodPussy/static/js/main.889895a5.js.map",
+    "453.97102f16.chunk.js.map": "/BloodPussy/static/js/453.97102f16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee9a7f2.css",
+    "static/js/main.889895a5.js"
+  ]
+}
